@@ -1,4 +1,4 @@
-// Cihangir Ilyas Bastan 160202019- Ridvan Kaplan  160202013
+// ozan aydogan 160202039
 
 
 #include <stdio.h>
