@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556231018 source:c:\users\hp\desktop\prolab1\ozdegerbulma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
